@@ -7,6 +7,10 @@ All notable changes to [bpmn-js](https://github.com/bpmn-io/bpmn-js) are documen
 
 ___Note:__ Yet to be released changes appear here._
 
+## 9.0.4 (2023-11-25)
+
+**Full Changelog**: https://github.com/fede-palazz/bpmn-js/compare/v9.0.3...v9.0.4
+
 ## 9.0.3
 
 * `FIX`: submit direct editing result on drilldown ([#1609](https://github.com/bpmn-io/bpmn-js/issues/1609))
